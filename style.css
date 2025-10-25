@@ -27,6 +27,7 @@ header {
 }
 
 .trang-1 {
+  width: 2000px;
   height: 900px;
   flex-shrink: 0;
   background: #fffcf4;
@@ -34,6 +35,7 @@ header {
 
 
 .trang-2 {
+    width: 2000px;
   height: 1045px;
   flex-shrink: 0;
   background: #fff;
