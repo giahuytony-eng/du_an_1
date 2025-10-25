@@ -18,7 +18,6 @@ body {
 }
 
 html {
-  width: 100%;
   height: 5109px;
   font-size: 62.5%;
 }
@@ -28,7 +27,6 @@ header {
 }
 
 .trang-1 {
-  width: 100%;
   height: 900px;
   flex-shrink: 0;
   background: #fffcf4;
@@ -36,7 +34,6 @@ header {
 
 
 .trang-2 {
-  width: 100%;
   height: 1045px;
   flex-shrink: 0;
   background: #fff;
